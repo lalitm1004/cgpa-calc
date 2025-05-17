@@ -1,0 +1,25 @@
+[sem1]
+year = 2023
+type = "Monsoon"
+
+[sem1.course.CODE1]
+name = "Example Course 1"
+credits = 4.0
+grade = ""
+
+[sem1.course.CODE2]
+name = "Example Course 2"
+credits = 3.0
+grade = ""
+
+# the line below is only for visual separation and not required
+#---------------------------------------------------------------------------#
+
+[sem2]
+year = 2024
+type = "Spring"
+
+[sem2.course.CODE3]
+name = "Example Course 3"
+credits = 5.0
+grade = ""
